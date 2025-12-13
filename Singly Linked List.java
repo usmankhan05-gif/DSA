@@ -152,6 +152,11 @@ This Java-based explanation and implementation provide a solid foundation for un
 */
 
 
+public class NodeClass {
+	int data;
+	NodeClass next;
+}
+
 
 
 import javax.swing.JOptionPane;
